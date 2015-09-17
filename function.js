@@ -10,5 +10,5 @@ $.ajax({
 )};
 
 json.forEach(function(name){
-	//loop through the json data
+	//loop through the ajax callback data
 });
